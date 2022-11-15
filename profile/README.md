@@ -6,7 +6,7 @@
 ## Relevant links
 * [Terrastories repository](https://github.com/Terrastories/terrastories/): The main Terrastories repository where all of the codebase currently resides, along with extensive setup and use documentation.
 
-* [Website](https://terrastories.io/): Our public-facing website featuring user stories, documentation on how to use Terrastories with your community, information about us as a volunteer team, and ways to get involved.
+* [Website](https://terrastories.app/): Our public-facing website featuring user stories, documentation on how to use Terrastories with your community, information about us as a volunteer team, and ways to get involved.
 
 * [Roadmap](https://github.com/Terrastories/terrastories/wiki/Terrastories-Roadmap): Our current (2022) roadmap, showing both scoped work and future directions.
 
