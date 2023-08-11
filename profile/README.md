@@ -10,7 +10,7 @@
 
 * [Website](https://terrastories.app/): Our public-facing website featuring user stories, documentation on how to use Terrastories with your community, information about us as a volunteer team, and ways to get involved.
 
-* [Roadmap](https://github.com/Terrastories/terrastories/wiki/Terrastories-Roadmap): Our current (2022) roadmap, showing both scoped work and future directions.
+* [Roadmap](https://github.com/Terrastories/terrastories/wiki/Terrastories-Roadmap): Our current roadmap, showing both scoped work and future directions.
 
 * [Wiki](https://github.com/Terrastories/terrastories/wiki): Containing a vision statement, roadmap, technical documentation, links to articles and presentations, and tutorials.
 
